@@ -1,3 +1,8 @@
 file in another subdirector
 
 this is what will cause a  conflict
+
+file in another subdirectoadfasdf
+
+
+this is to see the difference between merge and rebaasey
