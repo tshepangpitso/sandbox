@@ -1,1 +1,3 @@
-file in another subdirectory
+file in another subdirector
+
+this is what will cause a  conflict
